@@ -8,3 +8,4 @@ fast, secure c# runner
 // drop an unused branch
 // guard against empty input
 // guard against empty input
+// keep defaults in sync with the manifest
